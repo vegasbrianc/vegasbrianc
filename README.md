@@ -1,3 +1,12 @@
 Want to know more about Brian Christner?
 
-Brian Christner hails from Arizona but now resides in the Alps of Switzerland. Brian's spent a large portion of his career in the casino industry where he made sure the house always won. Brian is co-founder of [56K.Cloud](https://56k.cloud) and a nominated member of the Docker Captain’s program since 2016 and a seasoned cloud architect. He is also a cloud subject matter expert in the topics of Docker, Cloud Native, DevOps, CI/CD, Infrastructure as Code, and of course container monitoring. Brian is passionate about advocating for cloud and containers. When Brian is not busy trying to containerize everything he can be found riding his mountain bike or skiing in the Swiss Alps.
+### Hi there 👋
+This is the place where I opensource stuff and break spelling :rofl:
+
+- 🐳 I'm a Docker Captain and Co-Founder of [56K.Cloud](https://56k.cloud) :trophy:
+- 📍 I live in Switzerland but originally from the US :switzerland: + :us:
+- 🔭 I’m currently working on building a training platform for Cloud Native tools :wink:
+- 🌱 I’m currently studying for more AWS certifications
+- 💬 Ask me about anything related to Containers/Cloud/IoT
+- 📫 How to reach me: [@idomyowntricks](https://twitter.com/idomyowntricksa)
+- ⚡ Fun fact: I :heart: :bicyclist:
