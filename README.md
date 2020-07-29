@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break spelling :rofl:
 - 🔭 I’m currently working on building a training platform for Cloud Native tools :wink:
 - 🌱 I’m currently studying for more AWS certifications :book:
 - 💬 Ask me about anything related to Containers/Cloud/IoT :cloud:
-- 📫 How to reach me: [@idomyowntricks](https://twitter.com/idomyowntricksa)
+- 📫 How to reach me: [@idomyowntricks](https://twitter.com/idomyowntricks)
 - ⚡ Fun fact: I :heart: :bicyclist:, :ski: :mountain:
 
 # Latest Blog posts
