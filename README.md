@@ -11,10 +11,10 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Traefik Training Early Access](https://dev.to/vegasbrianc/traefik-training-early-access-4ae4)
 - [New Traefik Training Course](https://dev.to/vegasbrianc/new-traefik-training-course-4a36)
 - [How to Deploy Containers Directly to AWS ECS using Docker](https://dev.to/vegasbrianc/how-to-deploy-containers-directly-to-aws-ecs-using-docker-57lp)
 - [How to setup AWS Single Sign-On with Azure AD](https://dev.to/vegasbrianc/how-to-setup-aws-single-sign-on-with-azure-ad-1eo4)
 - [How to get started with IIS on Docker
 ](https://dev.to/vegasbrianc/how-to-get-started-with-iis-on-docker-5542)
-- [How to Develop inside a Container using Visual Studio Code Remote Containers](https://dev.to/vegasbrianc/how-to-develop-inside-a-container-using-visual-studio-code-remote-containers-5d0j)
 <!-- BLOG-POST-LIST:END -->
