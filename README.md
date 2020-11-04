@@ -11,9 +11,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Monitor Airplane Traffic with a Raspberry Pi](https://brianchristner.io/monitor-airplane-traffic-with-a-raspberry-pi/)
 - [The Why Quality](https://brianchristner.io/the-why-quality/)
 - [Hacking the McDonalds API](https://brianchristner.io/hacking-the-mcdonalds-api/)
 - [Top 5 Reasons to use Traefik Cloud Native Router](https://dev.to/vegasbrianc/top-5-reasons-to-use-traefik-cloud-native-router-511f)
 - [Getting Started with Traefik Cloud Native Edge Router](https://dev.to/vegasbrianc/getting-started-with-traefik-cloud-native-edge-router-2hg3)
-- [Traefik 2.3 announced - New features Pilot, AWS ECS, and Kubernetes Ingress](https://dev.to/vegasbrianc/traefik-2-3-announced-new-features-pilot-aws-ecs-and-kubernetes-ingress-3h04)
 <!-- BLOG-POST-LIST:END -->
