@@ -11,9 +11,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Reading Books a Habit](https://brianchristner.io/making-reading-books-a-habit/)
 - [Third Time on the Front Page of Hacker News](https://brianchristner.io/thrird-time-on-front-page-of-hacker-news/)
 - [How to Monitor Airplane Traffic with a Raspberry Pi](https://dev.to/vegasbrianc/how-to-monitor-airplane-traffic-with-a-raspberry-pi-109h)
 - [How to Monitor Airplane Traffic with a Raspberry Pi](https://brianchristner.io/monitor-airplane-traffic-with-a-raspberry-pi/)
 - [The Why Quality](https://brianchristner.io/the-why-quality/)
-- [Hacking the McDonalds API](https://brianchristner.io/hacking-the-mcdonalds-api/)
 <!-- BLOG-POST-LIST:END -->
