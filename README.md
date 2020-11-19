@@ -11,9 +11,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Review - Tell to Win: Connect, Persuade, and Triumph with the Hidden Power of Story](https://brianchristner.io/book-review-tell-to-win-peter-gruber/)
 - [Why I created online courses](https://brianchristner.io/why-i-created-online-courses/)
 - [How to use Docker Security Scan Locally](https://brianchristner.io/how-to-use-docker-scan/)
 - [Maintaining Open Source Projects is Hard](https://brianchristner.io/maintaining-open-source-projects-is-hard/)
 - [Making Reading Books a Habit](https://brianchristner.io/making-reading-books-a-habit/)
-- [Third Time on the Front Page of Hacker News](https://brianchristner.io/thrird-time-on-front-page-of-hacker-news/)
 <!-- BLOG-POST-LIST:END -->
