@@ -1,7 +1,7 @@
 ### Hi there, I'm Brian Christner 👋
 This is the place where I opensource stuff and break spelling :rofl:
 
-- 🐳 I'm a Docker Captain, Traefik ambassador, and Chief Online Gaming at Jackpots.ch 🎰) :trophy:
+- 🐳 I'm a Docker Captain and Traefik ambassador :trophy:
 - 📍 I live in Switzerland but originally from the US :switzerland: + :us:
 - 🔭 I’m currently working on building a training platform for Cloud Native tools :wink:
 - 🌱 I’m currently reading everything about Marketing Automation :book:
