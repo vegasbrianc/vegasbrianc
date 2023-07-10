@@ -12,9 +12,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4&#39;000 Stars and counting, a trip down memory lane](https://brianchristner.io/4000-stars-and-counting-a-trip-down-memory-lane/)
 - [2022 Retrospective 2022 and Goals/Predictions for 2023](https://brianchristner.io/2022-retrospective-2022-and-goals-predictions-for-2023/)
 - [Apple Freeform vs Miro](https://dev.to/vegasbrianc/apple-freeform-vs-miro-5a13)
 - [Apple Freeform vs Miro](https://brianchristner.io/apple-freeform-vs-miro/)
 - [Could a DAO Model Be the Key to Rescuing Open Source Funding?](https://dev.to/vegasbrianc/could-a-dao-model-be-the-key-to-rescuing-open-source-funding-3od4)
-- [Could a DAO Model Be the Key to Rescuing Open Source Funding?](https://brianchristner.io/could-a-dao-model-be-the-key-to-rescuing-open-source-funding/)
 <!-- BLOG-POST-LIST:END -->
