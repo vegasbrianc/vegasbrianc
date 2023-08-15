@@ -12,9 +12,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Tips to Own your KPIs like a boss](https://brianchristner.io/3-tips-to-own-your-kpis-like-a-boss/)
 - [Here’s what you need to know about traveling Europe without running into tourists](https://brianchristner.io/heres-what-you-need-to-know-about-traveling-europe-without-running-into-tourists/)
 - [How to Win Strava KOM Segments](https://brianchristner.io/how-to-win-strava-kom-segments/)
 - [4&#39;000 Stars and counting, a trip down memory lane](https://dev.to/vegasbrianc/4000-stars-and-counting-a-trip-down-memory-lane-407n)
 - [4&#39;000 Stars and counting, a trip down memory lane](https://brianchristner.io/4000-stars-and-counting-a-trip-down-memory-lane/)
-- [2022 Retrospective 2022 and Goals/Predictions for 2023](https://brianchristner.io/2022-retrospective-2022-and-goals-predictions-for-2023/)
 <!-- BLOG-POST-LIST:END -->
