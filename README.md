@@ -12,9 +12,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Obsidian Became My Supercharged Second Brain](https://brianchristner.io/how-obsidian-became-my-supercharged-second-brain/)
 - [How Data-Driven Marketing is Revolutionizing Digital Marketing](https://brianchristner.io/how-data-driven-marketing-is-revolutionizing-digital-marketing/)
 - [How the magic of moving in a W Shape helped my Public Speaking](https://brianchristner.io/how-the-magic-of-moving-in-a-w-shape-helped-my-public-speaking/)
 - [How one Book changed my view about Writing Online](https://brianchristner.io/how-one-book-changed-my-view-about-writing-online/)
 - [3 Tips to Own your KPIs like a boss](https://dev.to/vegasbrianc/3-tips-to-own-your-kpis-like-a-boss-3nb1)
-- [3 Tips to Own your KPIs like a boss](https://brianchristner.io/3-tips-to-own-your-kpis-like-a-boss/)
 <!-- BLOG-POST-LIST:END -->
