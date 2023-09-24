@@ -12,9 +12,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking SaaS Success: Gleaning Insights from Rob Walling&#39;s SaaS Playbook](https://dev.to/vegasbrianc/unlocking-saas-success-gleaning-insights-from-rob-wallings-saas-playbook-4f99)
 - [Unlocking SaaS Success: Gleaning Insights from Rob Walling&#39;s SaaS Playbook](https://brianchristner.io/unlocking-saas-success-gleaning-insights-from-rob-wallings-saas-playbook/)
+- [How Obsidian Became My Supercharged Second Brain](https://dev.to/vegasbrianc/how-obsidian-became-my-supercharged-second-brain-371)
 - [How Obsidian Became My Supercharged Second Brain](https://brianchristner.io/how-obsidian-became-my-supercharged-second-brain/)
 - [How Data-Driven Marketing is Revolutionizing Digital Marketing](https://brianchristner.io/how-data-driven-marketing-is-revolutionizing-digital-marketing/)
-- [How the magic of moving in a W Shape helped my Public Speaking](https://brianchristner.io/how-the-magic-of-moving-in-a-w-shape-helped-my-public-speaking/)
-- [How one Book changed my view about Writing Online](https://brianchristner.io/how-one-book-changed-my-view-about-writing-online/)
 <!-- BLOG-POST-LIST:END -->
