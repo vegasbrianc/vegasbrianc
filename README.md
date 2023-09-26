@@ -12,9 +12,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
 - [Decoding the AI Code Assistant Giants: GitHub Copilot vs. ChatGPT](https://brianchristner.io/decoding-the-ai-code-assistant-giants-github-copilot-vs-chatgpt/)
 - [Unlocking SaaS Success: Gleaning Insights from Rob Walling&#39;s SaaS Playbook](https://dev.to/vegasbrianc/unlocking-saas-success-gleaning-insights-from-rob-wallings-saas-playbook-4f99)
 - [Unlocking SaaS Success: Gleaning Insights from Rob Walling&#39;s SaaS Playbook](https://brianchristner.io/unlocking-saas-success-gleaning-insights-from-rob-wallings-saas-playbook/)
 - [How Obsidian Became My Supercharged Second Brain](https://dev.to/vegasbrianc/how-obsidian-became-my-supercharged-second-brain-371)
-- [How Obsidian Became My Supercharged Second Brain](https://brianchristner.io/how-obsidian-became-my-supercharged-second-brain/)
 <!-- BLOG-POST-LIST:END -->
