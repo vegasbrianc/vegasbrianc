@@ -12,9 +12,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing User Interaction: Unveiling ChatGPT&#39;s New Voice and Image Capabilities](https://dev.to/vegasbrianc/revolutionizing-user-interaction-unveiling-chatgpts-new-voice-and-image-capabilities-50mh)
 - [Revolutionizing User Interaction: Unveiling ChatGPT&#39;s New Voice and Image Capabilities](https://brianchristner.io/revolutionizing-user-interaction-unveiling-chatgpts-new-voice-and-image-capabilities/)
 - [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://dev.to/vegasbrianc/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity-24oa)
 - [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
 - [Decoding the AI Code Assistant Giants: GitHub Copilot vs. ChatGPT](https://dev.to/vegasbrianc/decoding-the-ai-code-assistant-giants-github-copilot-vs-chatgpt-ohp)
-- [Decoding the AI Code Assistant Giants: GitHub Copilot vs. ChatGPT](https://brianchristner.io/decoding-the-ai-code-assistant-giants-github-copilot-vs-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
