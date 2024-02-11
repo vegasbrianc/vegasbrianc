@@ -10,6 +10,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 - ⚡ Fun fact: I :heart: :bicyclist:, :ski: :mountain:
 - 🎰 I'm Chief Online Gaming developing the best entertainment experience for [Jackpots.ch](https://www.jackpots.ch/)
 
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vegasbrianc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [2023 in review and the future is bright with AI for 2024](https://brianchristner.io/2023-in-review-and-the-future-is-bright-with-ai-for-2024/)
