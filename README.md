@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a competitor analysis tool using ChatGPT](https://brianchristner.io/how-to-build-a-competitor-analysis-tool-using-chatgpt/)
 - [2023 in review and the future is bright with AI for 2024](https://brianchristner.io/2023-in-review-and-the-future-is-bright-with-ai-for-2024/)
 - [🚀 New Podcast Alert: Lex Fridman x Jeff Bezos 🌟](https://brianchristner.io/new-podcast-alert-lex-fridman-x-jeff-bezos/)
 - [Revolutionizing User Interaction: Unveiling ChatGPT&#39;s New Voice and Image Capabilities](https://dev.to/vegasbrianc/revolutionizing-user-interaction-unveiling-chatgpts-new-voice-and-image-capabilities-50mh)
 - [Revolutionizing User Interaction: Unveiling ChatGPT&#39;s New Voice and Image Capabilities](https://brianchristner.io/revolutionizing-user-interaction-unveiling-chatgpts-new-voice-and-image-capabilities/)
-- [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://dev.to/vegasbrianc/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity-24oa)
 <!-- BLOG-POST-LIST:END -->
