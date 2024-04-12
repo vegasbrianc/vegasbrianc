@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to recover an unresponsive iPhone](https://brianchristner.io/how-to-recover-an-unresponsive-iphone/)
 - [5 Game-Changing AI Use Cases for the iGaming Industry](https://brianchristner.io/5-game-changing-ai-use-cases-for-the-igaming-industry/)
 - [How to Build a competitor analysis tool using ChatGPT](https://brianchristner.io/how-to-build-a-competitor-analysis-tool-using-chatgpt/)
 - [2023 in review and the future is bright with AI for 2024](https://brianchristner.io/2023-in-review-and-the-future-is-bright-with-ai-for-2024/)
 - [🚀 New Podcast Alert: Lex Fridman x Jeff Bezos 🌟](https://brianchristner.io/new-podcast-alert-lex-fridman-x-jeff-bezos/)
-- [Revolutionizing User Interaction: Unveiling ChatGPT&#39;s New Voice and Image Capabilities](https://dev.to/vegasbrianc/revolutionizing-user-interaction-unveiling-chatgpts-new-voice-and-image-capabilities-50mh)
 <!-- BLOG-POST-LIST:END -->
