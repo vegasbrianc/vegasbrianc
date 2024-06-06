@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break spelling :rofl:
 <!-- BLOG-POST-LIST:START -->
 - [The Game-Changing Strategy: How Playables on YouTube, Netflix, LinkedIn, and NYT Are Driving Disruption!](https://brianchristner.io/the-game-changing-strategy-how-playables-on-youtube-netflix-linkedin-and-nyt-are-driving-disruption/)
 - [AI is an Enabler not a Job Killer](https://brianchristner.io/ai-is-an-enabler-not-a-job-killer/)
+- [An AI-generated song that sings Javascript Source Code](https://dev.to/vegasbrianc/an-ai-generated-song-that-sings-javascript-source-code-758)
 - [An AI-generated song that sings Javascript Source Code](https://brianchristner.io/an-ai-generated-song-using-javascript-as-the-text-of-the-song/)
 - [GPT-4o vs. Google I/O 2024: The Battle of the AI Giants Comparison](https://brianchristner.io/gpt-4o-vs-google-i-o-2024-the-battle-of-the-ai-giants-comparison/)
-- [The Metaverse is Dead](https://brianchristner.io/the-metaverse-is-dead/)
 <!-- BLOG-POST-LIST:END -->
