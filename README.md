@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break spelling :rofl:
 - 💬 Ask me about anything related to Containers/Cloud/iGaming/web3/AI :cloud:
 - 📫 How to reach me: [@idomyowntricks](https://twitter.com/idomyowntricks)
 - ⚡ Fun fact: I :heart: :bicyclist:, :ski: :mountain:
-- 🎰 I'm Chief Online Gaming developing the best entertainment experience for <a href="https://www.jackpots.ch/)" rel="dofollow">Jackpots.ch</a>
+- 🎰 I'm Chief Online Gaming developing the best entertainment experience for <a href="https://www.jackpots.ch" rel="dofollow">Jackpots.ch</a>
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vegasbrianc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
