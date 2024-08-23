@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [n8n: The Ultimate No Code and Open Source Workflow Automation Tool](https://dev.to/vegasbrianc/n8n-the-ultimate-no-code-and-open-source-workflow-automation-tool-428j)
 - [n8n: The Ultimate No Code and Open Source Workflow Automation Tool](https://brianchristner.io/n8n-the-ultimate-no-code-and-open-source-workflow-automation-tool/)
+- [How to Improve Note-Taking in Obsidian: Creating Great Readable Content](https://dev.to/vegasbrianc/how-to-improve-note-taking-in-obsidian-creating-great-readable-content-4kp0)
 - [How to Improve Note-Taking in Obsidian: Creating Great Readable Content](https://brianchristner.io/how-to-improve-note-taking-in-obsidian-creating-great-readable-content-2/)
 - [What is Microsoft Loop? The Future of Collaborative Workspaces](https://brianchristner.io/what-is-microsoft-loop-the-future-of-collaborative-workspaces/)
-- [The Game-Changing Strategy: How Playables on YouTube, Netflix, LinkedIn, and NYT Are Driving Disruption!](https://dev.to/vegasbrianc/the-game-changing-strategy-how-playables-on-youtube-netflix-linkedin-and-nyt-are-driving-disruption-1lji)
-- [The Game-Changing Strategy: How Playables on YouTube, Netflix, LinkedIn, and NYT Are Driving Disruption!](https://brianchristner.io/the-game-changing-strategy-how-playables-on-youtube-netflix-linkedin-and-nyt-are-driving-disruption/)
 <!-- BLOG-POST-LIST:END -->
