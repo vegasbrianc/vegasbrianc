@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Cursor AI Can Make Developers 10x More Productive](https://dev.to/vegasbrianc/how-cursor-ai-can-make-developers-10x-more-productive-2oh2)
 - [How Cursor AI Can Make Developers 10x More Productive](https://brianchristner.io/how-cursor-ai-can-make-developers-10x-more-productive/)
 - [How GameNGen Transforms Your Gaming Experience with AI-Driven Dynamic Worlds](https://dev.to/vegasbrianc/how-gamengen-transforms-your-gaming-experience-with-ai-driven-dynamic-worlds-aea)
 - [How GameNGen Transforms Your Gaming Experience with AI-Driven Dynamic Worlds](https://brianchristner.io/how-gamengen-transforms-your-gaming-experience-with-ai-driven-dynamic-worlds-2/)
 - [Unlocking Indie Success: Engineering Insights from Pieter Levels on the Lex Fridman Podcast](https://brianchristner.io/unlocking-indie-success-engineering-insights-from-pieter-levels-on-the-lex-fridman-podcast/)
-- [n8n: The Ultimate No Code and Open Source Workflow Automation Tool](https://dev.to/vegasbrianc/n8n-the-ultimate-no-code-and-open-source-workflow-automation-tool-428j)
 <!-- BLOG-POST-LIST:END -->
