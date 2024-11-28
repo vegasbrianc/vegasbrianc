@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [20 Years of Google Switzerland: A Look Back and a Look Ahead](https://brianchristner.io/20-years-of-google-switzerland-a-look-back-and-a-look-ahead/)
 - [Book Review: The Subtle Art of Not Giving a F*ck by Mark Manson](https://brianchristner.io/book-review-the-subtle-art-of-not-giving-a-f-ck-by-mark-manson/)
 - [Investigating the Digital Marketing Strategies of Trump and Harris Campaigns](https://brianchristner.io/investigating-the-digital-marketing-strategies-of-trump-and-harris-campaigns/)
 - [How Cursor AI Can Make Developers 10x More Productive](https://dev.to/vegasbrianc/how-cursor-ai-can-make-developers-10x-more-productive-2oh2)
 - [How Cursor AI Can Make Developers 10x More Productive](https://brianchristner.io/how-cursor-ai-can-make-developers-10x-more-productive/)
-- [How GameNGen Transforms Your Gaming Experience with AI-Driven Dynamic Worlds](https://dev.to/vegasbrianc/how-gamengen-transforms-your-gaming-experience-with-ai-driven-dynamic-worlds-aea)
 <!-- BLOG-POST-LIST:END -->
