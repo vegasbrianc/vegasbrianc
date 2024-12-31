@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Nailed 2024 Predictions and the Year in Review](https://brianchristner.io/i-nailed-2024-predictions-and-the-year-in-review/)
 - [Switzerland is the New AI Valley](https://brianchristner.io/switzerland-is-the-new-ai-valley/)
 - [Personal Brands vs Corporate Brands](https://brianchristner.io/personal-brands-vs-corporate-brands/)
 - [20 Years of Google Switzerland: A Look Back and a Look Ahead](https://brianchristner.io/20-years-of-google-switzerland-a-look-back-and-a-look-ahead/)
 - [Book Review: The Subtle Art of Not Giving a F*ck by Mark Manson](https://brianchristner.io/book-review-the-subtle-art-of-not-giving-a-f-ck-by-mark-manson/)
-- [Investigating the Digital Marketing Strategies of Trump and Harris Campaigns](https://brianchristner.io/investigating-the-digital-marketing-strategies-of-trump-and-harris-campaigns/)
 <!-- BLOG-POST-LIST:END -->
