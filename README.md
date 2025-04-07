@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Revolution in Search: Why Your Business Might Be Invisible and What to Do About It](https://brianchristner.io/the-ai-revolution-in-search-why-your-business-might-be-invisible-and-what-to-do-about-it/)
 - [How I Saved $1,900 by Ditching Kajabi and Building My Own Learning Platform on Replit](https://dev.to/vegasbrianc/how-i-saved-1900-by-ditching-kajabi-and-building-my-own-learning-platform-on-replit-22hk)
 - [How I Saved $1,900 by Ditching Kajabi and Building My Own Learning Platform on Replit](https://brianchristner.io/how-i-saved-1-900-by-ditching-kajabi-and-building-my-own-learning-platform-on-replit/)
 - [I Nailed 2024 Predictions and the Year in Review](https://brianchristner.io/i-nailed-2024-predictions-and-the-year-in-review/)
 - [Switzerland is the New AI Valley](https://dev.to/vegasbrianc/switzerland-is-the-new-ai-valley-28l0)
-- [Switzerland is the New AI Valley](https://brianchristner.io/switzerland-is-the-new-ai-valley/)
 <!-- BLOG-POST-LIST:END -->
