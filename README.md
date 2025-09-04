@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Human OS: One Interface for All Your Tools](https://brianchristner.io/your-human-os-one-interface-for-all-your-tools/)
 - [Why Zapier Won My Time Back from n8n](https://dev.to/vegasbrianc/why-zapier-won-my-time-back-from-n8n-1ddf)
 - [Why Zapier Won My Time Back from n8n](https://brianchristner.io/why-zapier-won-my-time-back-from-n8n/)
 - [Never Eat Alone: Lessons on Building Relationships That Last](https://brianchristner.io/never-eat-alone-lessons-on-building-relationships-that-last/)
 - [From Cloud Native to AI Native: Why Your AI Architecture Needs a Reality Check](https://dev.to/vegasbrianc/from-cloud-native-to-ai-native-why-your-ai-architecture-needs-a-reality-check-1ah3)
-- [From Cloud Native to AI Native: Why Your AI Architecture Needs a Reality Check](https://brianchristner.io/from-cloud-native-to-ai-native-why-your-ai-architecture-needs-a-reality-check/)
 <!-- BLOG-POST-LIST:END -->
