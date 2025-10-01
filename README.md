@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
 - [The Windshield Mindset: Build What’s Next, Not What Was](https://brianchristner.io/the-windshield-mindset-build-whats-next-not-what-was/)
 - [Ikigai Explained: How Purpose Leads to a Longer, Happier Life](https://brianchristner.io/ikigai-explained-how-purpose-leads-to-a-longer-happier-life/)
 - [Your Human OS: One Interface for All Your Tools](https://brianchristner.io/your-human-os-one-interface-for-all-your-tools/)
 - [Why Zapier Won My Time Back from n8n](https://dev.to/vegasbrianc/why-zapier-won-my-time-back-from-n8n-1ddf)
-- [Why Zapier Won My Time Back from n8n](https://brianchristner.io/why-zapier-won-my-time-back-from-n8n/)
 <!-- BLOG-POST-LIST:END -->
