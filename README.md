@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel: The Best and Worst Tool in Your Tech Stack](https://dev.to/vegasbrianc/excel-the-best-and-worst-tool-in-your-tech-stack-2b3n)
 - [Excel: The Best and Worst Tool in Your Tech Stack](https://brianchristner.io/excel-the-best-and-worst-tool-in-your-tech-stack/)
 - [Why Your Company Needs a Chief Failure Officer](https://dev.to/vegasbrianc/why-your-company-needs-a-chief-failure-officer-3190)
 - [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
 - [The Windshield Mindset: Build What’s Next, Not What Was](https://brianchristner.io/the-windshield-mindset-build-whats-next-not-what-was/)
-- [Ikigai Explained: How Purpose Leads to a Longer, Happier Life](https://dev.to/vegasbrianc/ikigai-explained-how-purpose-leads-to-a-longer-happier-life-1k26)
 <!-- BLOG-POST-LIST:END -->
