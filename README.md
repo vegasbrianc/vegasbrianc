@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unreasonable Hospitality: The Book That Changed How I Think About Customer Experience](https://brianchristner.io/unreasonable-hospitality-the-book-that-changed-how-i-think-about-customer-experience/)
 - [Excel: The Best and Worst Tool in Your Tech Stack](https://dev.to/vegasbrianc/excel-the-best-and-worst-tool-in-your-tech-stack-2b3n)
 - [Excel: The Best and Worst Tool in Your Tech Stack](https://brianchristner.io/excel-the-best-and-worst-tool-in-your-tech-stack/)
 - [Why Your Company Needs a Chief Failure Officer](https://dev.to/vegasbrianc/why-your-company-needs-a-chief-failure-officer-3190)
 - [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
-- [The Windshield Mindset: Build What’s Next, Not What Was](https://brianchristner.io/the-windshield-mindset-build-whats-next-not-what-was/)
 <!-- BLOG-POST-LIST:END -->
