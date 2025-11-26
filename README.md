@@ -19,5 +19,5 @@ This is the place where I opensource stuff and break spelling :rofl:
 - [Excel: The Best and Worst Tool in Your Tech Stack](https://dev.to/vegasbrianc/excel-the-best-and-worst-tool-in-your-tech-stack-2b3n)
 - [Excel: The Best and Worst Tool in Your Tech Stack](https://brianchristner.io/excel-the-best-and-worst-tool-in-your-tech-stack/)
 - [Why Your Company Needs a Chief Failure Officer](https://dev.to/vegasbrianc/why-your-company-needs-a-chief-failure-officer-3190)
-- [Why Your Company Needs a Chief Failure Officer](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
+- [Why Your Company Needs a Chief Failure Officer: Building an Innovation Culture](https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/)
 <!-- BLOG-POST-LIST:END -->
