@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Cost of &quot;Free&quot;: Why Legacy Productivity Tools Destroy Team Velocity](https://brianchristner.io/the-hidden-cost-of-free-why-legacy-productivity-tools-destroy-team-velocity/)
 - [The Ultimate Productivity System: From Mindset to Metrics](https://brianchristner.io/the-ultimate-productivity-system-from-mindset-to-metrics/)
 - [Master GEO: The 3-Step Strategy to Beat AI Overviews and Secure Position Zero Authority](https://brianchristner.io/master-geo-the-3-step-strategy-to-beat-ai-overviews-and-secure-position-zero-authority/)
 - [Unreasonable Hospitality: The Will Guidara Book That Transformed My Approach to Digital Customer Experience](https://brianchristner.io/unreasonable-hospitality-the-book-that-changed-how-i-think-about-customer-experience/)
 - [Excel: The Best and Worst Tool in Your Tech Stack](https://dev.to/vegasbrianc/excel-the-best-and-worst-tool-in-your-tech-stack-2b3n)
-- [Excel: The Best and Worst Tool in Your Tech Stack](https://brianchristner.io/excel-the-best-and-worst-tool-in-your-tech-stack/)
 <!-- BLOG-POST-LIST:END -->
