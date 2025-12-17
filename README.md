@@ -19,5 +19,5 @@ This is the place where I opensource stuff and break spelling :rofl:
 - [The Ultimate Productivity System: From Mindset to Metrics](https://brianchristner.io/the-ultimate-productivity-system-from-mindset-to-metrics/)
 - [Master GEO: The 3-Step Strategy to Beat AI Overviews and Secure Position Zero Authority](https://brianchristner.io/master-geo-the-3-step-strategy-to-beat-ai-overviews-and-secure-position-zero-authority/)
 - [Unreasonable Hospitality: The Will Guidara Book That Transformed My Approach to Digital Customer Experience](https://brianchristner.io/unreasonable-hospitality-the-book-that-changed-how-i-think-about-customer-experience/)
-- [Excel: The Best and Worst Tool in Your Tech Stack](https://dev.to/vegasbrianc/excel-the-best-and-worst-tool-in-your-tech-stack-2b3n)
+- [TPUs vs GPUs and why Google is positioned to win AI race](https://brianchristner.io/tpus-vs-gpus-and-why-google-is-positioned-to-win-ai-race/)
 <!-- BLOG-POST-LIST:END -->
