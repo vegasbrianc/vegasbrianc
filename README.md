@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Weekly Byte](https://brianchristner.io/the-weekly-byte/)
+- [The Weekly Byte January 22-28, 2026](https://brianchristner.io/the-weekly-byte/)
 - [2026 Predictions Recap and 2025 Year in Review](https://brianchristner.io/2026-predictions-recap-and-2025-year-in-review/)
 - [The Hidden Cost of &quot;Free&quot;: Why Legacy Productivity Tools Destroy Team Velocity](https://brianchristner.io/the-hidden-cost-of-free-why-legacy-productivity-tools-destroy-team-velocity/)
 - [The Ultimate Productivity System: From Mindset to Metrics](https://brianchristner.io/the-ultimate-productivity-system-from-mindset-to-metrics/)
