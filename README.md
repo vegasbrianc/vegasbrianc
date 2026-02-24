@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Agent-to-Agent Apps](https://brianchristner.io/the-rise-of-agent-to-agent-apps/)
 - [OpenAI Acquires OpenClaw: A New Era for Autonomous Agents The Weekly Byte](https://brianchristner.io/openai-acquires-openclaw-a-new-era-for-autonomous-agents-the-weekly-byte/)
 - [The Weekly Byte February 6-12, 2026](https://brianchristner.io/the-weekly-byte-february-6-12-2026/)
 - [OpenClaw Security Checklist: Hardening Your AI Agent Infrastructure](https://brianchristner.io/openclaw-security-checklist-hardening-your-ai-agent-infrastructure/)
 - [The AI Race Moves to Space &lpar;And Why You Shouldn&#39;t Follow&rpar;](https://brianchristner.io/the-ai-race-moves-to-space-and-why-you-shouldnt-follow/)
-- [The Weekly Byte January 22-28, 2026](https://brianchristner.io/the-weekly-byte/)
 <!-- BLOG-POST-LIST:END -->
