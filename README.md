@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Weekly Byte: China&#39;s Agent Gold Rush](https://brianchristner.io/the-weekly-byte-chinas-agent-gold-rush/)
 - [The Weekly Byte: When AI Goes to War &lpar;and Everything Else Goes Wrong&rpar;](https://brianchristner.io/the-weekly-byte-when-ai-goes-to-war-and-everything-else-goes-wrong/)
 - [How I Connected OpenClaw to Telegram in 10 Minutes](https://brianchristner.io/how-to-connect-openclaw-to-telegram/)
 - [3 Ways How to Install OpenClaw &lpar;+ Bonus&rpar;](https://brianchristner.io/how-to-install-openclaw/)
 - [The Weekly Byte: Google&#39;s Physical AI Power Play](https://brianchristner.io/the-weekly-byte-googles-physical-ai-power-play/)
-- [The Rise of Agent-to-Agent Apps](https://brianchristner.io/the-rise-of-agent-to-agent-apps/)
 <!-- BLOG-POST-LIST:END -->
