@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s Record Raise and the Week Autonomous Cars Stood Still](https://brianchristner.io/openais-record-raise-and-the-week-autonomous-cars-stood-still/)
 - [OpenAI Kills Sora, Bets Everything on a Potato](https://brianchristner.io/openai-kills-sora-bets-everything-on-a-potato/)
 - [When AI Goes Rogue and Other Security Wake-up Calls](https://brianchristner.io/when-ai-goes-rogue-and-other-security-wake-up-calls/)
 - [The Weekly Byte: China&#39;s Agent Gold Rush](https://brianchristner.io/the-weekly-byte-chinas-agent-gold-rush/)
 - [The Weekly Byte: When AI Goes to War &lpar;and Everything Else Goes Wrong&rpar;](https://brianchristner.io/the-weekly-byte-when-ai-goes-to-war-and-everything-else-goes-wrong/)
-- [How I Connected OpenClaw to Telegram in 10 Minutes](https://brianchristner.io/how-to-connect-openclaw-to-telegram/)
 <!-- BLOG-POST-LIST:END -->
