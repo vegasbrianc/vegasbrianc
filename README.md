@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trust Nothing. Not Your Extensions. Not Your Enemies.](https://brianchristner.io/trust-nothing-not-your-extensions-not-your-enemies/)
 - [The Trial That Could Reshape AI](https://brianchristner.io/the-trial-that-could-reshape-ai/)
 - [The Weekly Byte: The Agentic Coding Wars Heat Up](https://brianchristner.io/the-weekly-byte-the-agentic-coding-wars-heat-up/)
 - [The NYT Says It Found Satoshi. Anthropic Just Passed $30 Billion. And Telegram Bots Now Build Bots.](https://brianchristner.io/the-nyt-says-it-found-satoshi-anthropic-just-passed-30-billion-and-telegram-bots-now-build-bots/)
 - [OpenAI&#39;s Record Raise and the Week Autonomous Cars Stood Still](https://brianchristner.io/openais-record-raise-and-the-week-autonomous-cars-stood-still/)
-- [OpenAI Kills Sora, Bets Everything on a Potato](https://brianchristner.io/openai-kills-sora-bets-everything-on-a-potato/)
 <!-- BLOG-POST-LIST:END -->
