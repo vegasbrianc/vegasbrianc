@@ -15,9 +15,9 @@ This is the place where I opensource stuff and break spelling :rofl:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I built a panel of casino personas that are paid to disagree!](https://brianchristner.io/why-i-built-a-panel-of-casino-personas-that-are-paid-to-disagree/)
 - [OpenAI Builds an AI Hacker to Fight AI Hackers](https://brianchristner.io/openai-builds-an-ai-hacker-to-fight-ai-hackers/)
 - [The Weekly Byte: OpenAI Wants Uncle Sam as a Shareholder](https://brianchristner.io/openai-wants-uncle-sam-as-a-shareholder/)
 - [OpenAI Enters the Chip Race, and Alibaba Allegedly Cheated!](https://brianchristner.io/openai-enters-the-chip-race-and-alibaba-allegedly-cheated/)
 - [Your AI provider just became a single point of failure](https://brianchristner.io/your-ai-provider-just-became-a-single-point-of-failure/)
-- [SpaceX Goes Public Today. Apple Opens Siri to Claude. And the IPO Wave Is Just Getting Started.](https://brianchristner.io/spacex-goes-public-today-apple-opens-siri-to-claude-and-the-ipo-wave-is-just-getting-started/)
 <!-- BLOG-POST-LIST:END -->
